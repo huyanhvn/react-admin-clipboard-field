@@ -1,0 +1,33 @@
+{
+  "name": "react-admin-clipboard-field",
+  "version": "1.0.0",
+  "description": "An enhanced react-admin TextField with copy-to-clipboard icon",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetradedesk/react-admin-clipboard-field.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetradedesk/react-admin-clipboard-field/issues"
+  },
+  "homepage": "https://github.com/thetradedesk/react-admin-clipboard-field#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-admin": "^4.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.12.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0"
+  }
+}

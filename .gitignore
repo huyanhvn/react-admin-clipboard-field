@@ -1,0 +1,15 @@
+node_modules/
+.node_modules/
+built/*
+**/.DS_Store
+**/.vs
+**/.vscode/*
+!**/.vscode/tasks.json
+!**/.vscode/settings.template.json
+!**/.vscode/launch.template.json
+!**/.vscode/extensions.json
+yarn-error.log
+package-lock.json
+.eslintcache
+*v8.log
+dist/
