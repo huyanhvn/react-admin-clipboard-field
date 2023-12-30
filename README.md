@@ -2,6 +2,10 @@
 
 An enhanced react-admin TextField with copy-to-clipboard icon.
 
+# Demo
+
+![](https://github.com/thetradedesk/react-admin-clipboard-field/blob/main/demo/clipboard-field-demo.gif)
+
 # Usage
 
 Copy `src/clipboard-field.tsx` to your source directory.
